@@ -13,7 +13,7 @@ npm ci
 Start the development server:
 
 ```bash
-npm run start 
+npm start 
 ```
 Now, open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the project.
 
