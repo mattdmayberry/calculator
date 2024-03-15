@@ -6,7 +6,7 @@ Final project for [Meta's React Basics course on Coursera](https://www.coursera.
 
 Change the current directory to the project folder and install the dependencies:
 ```bash
-cd Simple-Calculator
+cd calculator
 npm ci 
 ```
 
